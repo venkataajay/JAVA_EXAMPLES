@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>gs</servlet-name>
+<servlet-class>info.inetsolv.WelcomeServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>gs</servlet-name>
+<url-pattern>/generic</url-pattern>
+</servlet-mapping>
+</web-app>

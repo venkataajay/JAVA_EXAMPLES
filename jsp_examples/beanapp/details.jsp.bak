@@ -1,0 +1,17 @@
+<html>
+<body>
+<center>
+<form action="store.jsp">
+enter rollnumber
+<input type="text" name="rollno"/><br/>
+enter name
+<input type="text" name="name"/><br/>
+enter marks
+<input type="text" name="marks"/><br/>
+enter marks
+<input type="text" name="result"/><br/>
+<input type="submit" value="store">
+</form>
+</center>
+</body>
+</html>

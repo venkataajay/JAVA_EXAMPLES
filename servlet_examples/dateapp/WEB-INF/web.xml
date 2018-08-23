@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>ds</servlet-name>
+<servlet-class>info.inetsolv.DateServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ds</servlet-name>
+<url-pattern>/date</url-pattern>
+</servlet-mapping>
+</web-app>

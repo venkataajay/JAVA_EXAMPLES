@@ -1,0 +1,10 @@
+<web-app>
+<servlet>
+<servlet-name>is</servlet-name>
+<servlet-class>info.inetsolv.InsertRecord</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>is</servlet-name>
+<url-pattern>/insert</url-pattern>
+</servlet-mapping>
+</web-app>

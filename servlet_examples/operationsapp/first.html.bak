@@ -1,0 +1,13 @@
+<html>
+<body>
+<center>
+<form action="http://localhost:3030/dbapp/first">
+enter empid<input type="text" name="empid" /> </br>
+enter ename<input type="text" name="ename"/></br>
+enter eaddress<input type="text" name="eaddress"/></br>
+<input type="submit" value="insert record"/>
+</form>
+</center>
+</body>
+</html>
+
