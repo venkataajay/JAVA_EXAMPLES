@@ -1,0 +1,13 @@
+<html>
+<body>
+<center>
+<form method="Post" action="http://localhost:3030/urlrewriteapp/first" >
+enter username
+<input type="text" name="uname"/><br/>
+enter password
+<input type="password" name="upass"/><br/>
+<input type="submit" value="login"/>
+</form>
+</center>
+</body>
+</html>

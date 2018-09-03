@@ -1,0 +1,4 @@
+<%String usr=request.getParameter("uname")
+out.println("hello"+usr );
+%>
+

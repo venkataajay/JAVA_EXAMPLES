@@ -1,0 +1,10 @@
+<html>
+<body>
+<center>
+<form action="http://localhost:3030/hiddenapp/first">
+<input type="name" value="uname"/><br/>
+<input type="submit" value="set value"/>
+</form>
+</center>
+</body>
+</html>
