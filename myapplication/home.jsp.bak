@@ -1,0 +1,10 @@
+<%
+out.println("welcome to MyApplication");
+%>
+<html>
+<body>
+<form action="http://localhost:3030/myapplication/logout">
+<input type="submit" value="logout">
+</form>
+</body>
+</html>

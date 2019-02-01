@@ -1,0 +1,12 @@
+<html>
+	<body>
+		<center>
+		<form action="">
+		enter username
+		<input type="text" name="uname"/><br/>
+		enter password
+		<input type="password" name="pwd"/><br/>
+		<input type="submit" value="login"/><br/>
+		</center>
+	</body>
+</html>

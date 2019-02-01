@@ -1,0 +1,19 @@
+<html>
+	<body>
+		<center>
+			<form action="http://localhost:3030/myapplication/register">
+			enter your firstname
+			<input type="text" name="fname"/><br/>
+            enter your lastname
+			<input type="text" name="lname"/><br/>
+			enter username
+			<input type="text" name="uname"/><br/>
+			enter your password
+			<input type="password" name="pwd"/><br/>
+			enter your DateOfBirth
+			<input type="date" name="dob"/><br/>
+			<input type="submit" value="register"/><br/>
+			</form>
+		</center>
+	</body>
+</html>
